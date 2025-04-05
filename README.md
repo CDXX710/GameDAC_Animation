@@ -56,9 +56,9 @@ Each string is one frame (max 128px wide text), centered manually to fit within 
 ## 📂 File Structure
 
 ```bash
-custom-oled-animation/
-├── oled_animation.py   # Main script
-└── README.md           # You're here
+GameDAC_Animation/
+├── CUSTOM_OLED_ANIMATION.py  # Main script
+└── README.md                 # You're here
 ```
 
 ---

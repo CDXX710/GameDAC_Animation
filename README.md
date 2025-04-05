@@ -74,17 +74,3 @@ custom-oled-animation/
 
 Made by **CDXX420**  
 Powered by SteelSeries GameSense
-
----
-
-## 🪄 Future Ideas
-
-- Display scrolling text or song titles  
-- Sync animation to system stats (CPU, FPS, etc.)  
-- Convert GIF frames to text-based OLED frames
-
----
-
-## 📸 Preview (Optional)
-
-Want a GIF preview in this section? Ask me and I’ll help you generate one from your animation frames!
